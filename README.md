@@ -1,9 +1,23 @@
 ![MasterHead](https://i.pinimg.com/originals/6f/a6/2f/6fa62f316d155c5f56a9ca283cd06741.png)
 <h1 align="center">Hi 👋, I'm Chirantan</h1>
-<h3 align="center">An entry- leave aspiring Data Analyst in India</h3>
+An enthusiastic and aspiring data analyst with a passion for transforming raw data into meaningful insights. Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning **Py libraries**
 
+- 💬 Interested in **Environmental Economics** & **Mechanical Engineering** 
+
+- 💡 I believe in the power of data to drive informed decision making, and I'm excited to collaborate with like-minded professionals. Let's connect and make an impact together!
+
 - 📫 How to reach me **chirantanbal0@gmail.com**
 
-- 💬 Interested in **Environmental Economics** & **Mechanical Engineering** 
+- 🔍 Skills:
+
+**Technical Skills**
+- SQL
+- Python
+
+**Data analysis skills**
+- MS Excel
+- Power BI
+
+Looking forward to exploring the world of data analysis and leveraging my skills to make data-driven decisions! 🚀
