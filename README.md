@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chirantan</h1>
 An enthusiastic and aspiring data analyst with a passion for transforming raw data into meaningful insights. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning **Py libraries**
+- 🌱 I am currently honing my skills in **Python libraries** for analytics.
 
 - 💬 Interested in **Environmental Economics** & **Mechanical Engineering** 
 
