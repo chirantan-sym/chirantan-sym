@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chirantan</h1>
 An enthusiastic and aspiring data analyst with a passion for transforming raw data into meaningful insights. Welcome to my GitHub profile!
 
-- 🌱 I am currently honing my skills in **DAX & M** of Power Bi.
+- 🌱 I am currently honing my skills in SQL & Power Bi.
 
 - 💬 Interested in **Environmental Economics** & **Mechanical Engineering** 
 
